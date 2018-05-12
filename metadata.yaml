@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34130
     wikipedia: http://en.wikipedia.org/wiki/Jerome_Bixby
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32360#The-Holes-Around-Mars
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-13'
 gutenberg_type: Text
